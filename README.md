@@ -1,5 +1,5 @@
-# admin-dashboard
-
+# Admin-Dashboard
+A dummy web app implemented with Vue JS
 ## Project setup
 ```
 npm install
